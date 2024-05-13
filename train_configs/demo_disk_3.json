@@ -1,0 +1,20 @@
+{
+   "x_max":800,
+   "y_max":800,
+   "m_min":14,
+   "m_max":16,
+   "re_min":10,
+   "re_max":20,
+   "n_min":0.9,
+   "n_max":1.1,
+   "ellip_min":0.0,
+   "ellip_max":0.7,
+   "c_m_min":0.1,
+   "c_m_max":1.1,
+   "c_re_mean":0.4,
+   "c_re_sd":0.2,
+   "b_n_min":1.0,
+   "b_n_max":3.0,
+   "b_ellip_min":0.0,
+   "b_ellip_max":0.5
+}

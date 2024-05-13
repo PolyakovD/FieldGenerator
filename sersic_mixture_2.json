@@ -1,0 +1,26 @@
+{
+   "ellip_min":0.0,
+   "ellip_max":0.6,
+   "x_max":1500,
+   "y_max":1500,
+   "mixture":[
+      {
+         "p":0.02,
+         "m_min":11,
+         "m_max":14,
+         "n_min":3,
+         "n_max":4,
+         "re_min":25,
+         "re_max":50
+      },
+      {
+         "p":0.98,
+         "m_min":14,
+         "m_max":16,
+         "n_min":3,
+         "n_max":4,
+         "re_min":10,
+         "re_max":25
+      }
+   ]
+}

@@ -1,0 +1,12 @@
+{
+   "ellip_min":0.0,
+   "ellip_max":0.4,
+   "c_m_min":-0.5,
+   "c_m_max":0.7,
+   "n_min":0.1,
+   "n_max":0.3,
+   "c_re_min":2,
+   "c_re_max":4,
+   "phi_min":0.872,
+   "phi_max":2.269	
+}
